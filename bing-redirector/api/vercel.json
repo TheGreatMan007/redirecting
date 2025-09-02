@@ -1,4 +1,5 @@
 {
 "rewrites": [
-{ "source": "/redirect", "https://sord.helpdeskinld.com": "/api/redirect" }
+{ "source": "/redirect", "destination": "/api/redirect" }
 ]}
+
